@@ -93,6 +93,6 @@ Nikhil Navale
 B.Tech CS-AI | Transflower Team Project
 🗂️ This script is free for educational use.
 
-📜 License
+📜 License:
 This project is open-source and available under the MIT License.
 ---
