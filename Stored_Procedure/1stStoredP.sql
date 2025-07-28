@@ -12,3 +12,4 @@ end
 call userregistration('nikhil n','nik7890','nikhil21@gmail.com','pune');
 set sql_safe_updates=false;
 select *from users;
+
